@@ -1,16 +1,28 @@
-### Hi there 👋
+# Skills:
+- [x] HTML & CSS
+- [x] JavaScript
+- [x] PHP
+- [x] SQL
+- [x] PHP
+- [x] Python
+- [x] Java
+- [x] Cpp & C (basics)
+- [x] Shell
 
-<!--
-**b3jb1/b3jb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# System:
+* OS: Arch Linux
+* WM: i3
+* Terminal: Terminator
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
