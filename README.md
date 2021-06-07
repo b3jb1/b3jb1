@@ -9,6 +9,7 @@
 - [x] Cpp & C (basics)
 - [x] Shell
 - [x] PenTesting
+- [x] Information System Security
 
 # System:
 * OS: Arch Linux
@@ -16,7 +17,7 @@
 * Terminal: Terminator
 
 # About me:
-> I'm 20 years old Cybersecurity Amateur & Certified Developer, I love programming, Ethical Hacking and coffee XD
+> I love coffee
 
 Join my [discord](https://discord.gg/uFxTZuSdZW)
 
