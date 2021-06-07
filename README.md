@@ -23,4 +23,4 @@
 
 Join my [discord](https://discord.gg/uFxTZuSdZW)
 
-<script src="https://www.hackthebox.eu/badge/595487"></script>
+<img src="http://www.hackthebox.eu/badge/image/595487" alt="Hack The Box">
