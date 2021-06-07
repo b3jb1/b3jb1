@@ -16,7 +16,7 @@
 * Terminal: Terminator
 
 # About me:
-> I'm 20 years old Cybersecurity Amateur & Certified Developer, I love programming and Ethical Hacking and coffee
+> I'm 20 years old Cybersecurity Amateur & Certified Developer, I love programming, Ethical Hacking and coffee XD
 
 Join my [discord](https://discord.gg/uFxTZuSdZW)
 
