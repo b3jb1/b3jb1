@@ -10,6 +10,8 @@
 - [x] Shell
 - [x] PenTesting
 - [x] Information System Security
+- [ ] Digital Forensic (still learning)
+- [ ] Social Engineering (still learning)
 
 # System:
 * OS: Arch Linux
@@ -20,15 +22,3 @@
 > I love coffee
 
 Join my [discord](https://discord.gg/uFxTZuSdZW)
-
-
-
-
-
-
-
-
-
-
-
-
