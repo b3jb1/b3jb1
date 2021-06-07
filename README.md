@@ -22,3 +22,5 @@
 > I love coffee
 
 Join my [discord](https://discord.gg/uFxTZuSdZW)
+
+<script src="https://www.hackthebox.eu/badge/595487"></script>
