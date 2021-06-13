@@ -1,1 +1,1 @@
-<iframe src="https://discord.com/widget?id=803997190858473532&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+`sudo pacman -S b3jb1`
